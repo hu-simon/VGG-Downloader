@@ -8,8 +8,8 @@ URLs and MD5 checksums for each of the datasets are located at ``./lists/`` and 
 
 The following script can be used to download and prepare the LRS2 dataset.
 
-``
+```
 python ./download_vgg.py --save_path /home/shu/VGG_Lipreading/LRS2 --download --username USER --password PASSWORD
 python ./download_vgg.py --save_path /home/shu/VGG_Lipreading/LRS2 --extract
-``
+```
 
