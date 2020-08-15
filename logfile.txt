@@ -1,0 +1,9 @@
+[INFO] Checksum successful for lrs2_v1_partaa
+[INFO] Checksum successful for lrs2_v1_partab
+[INFO] Checksum successful for lrs2_v1_partac
+[INFO] Checksum successful for lrs2_v1_partad
+[INFO] Checksum successful for lrs2_v1_partae
+[INFO] Checksum successful for pretrain.txt
+[INFO] Checksum successful for train.txt
+[INFO] Checksum successful for val.txt
+[INFO] Checksum successful for test.txt

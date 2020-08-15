@@ -62,8 +62,8 @@ def download(args, lines):
         output_file = url.split("/")[-1]
 
         result = subprocess.call(
-            "wget {} --user {} --password {} -O {}/{}".format(
-                url, args.username, args.password, args.save_path, output_file
+            "wget {} --user {} --password {} -O {}/{} > {}/logfile.txt".format(
+                url, args.username, args.password, args.save_path, output_file, args.save_path
             ),
             shell=True,
         )

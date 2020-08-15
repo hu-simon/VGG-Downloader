@@ -1,0 +1,4 @@
+[INFO] Checksum successful for lrs3_pretrain_partaa
+[INFO] Checksum successful for lrs3_pretrain_partab
+[INFO] Checksum successful for lrs3_pretrain_partac
+[INFO] Checksum successful for lrs3_pretrain_partad
